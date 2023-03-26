@@ -1,0 +1,17 @@
+{
+  "name": "gas-sheetsplitter",
+  "version": "0.1.0",
+  "description": "Split spreadsheet by rules",
+  "scripts": {
+    "push": "clasp push"
+  },
+  "author": "takayukioda <takayuki@odashi.me>",
+  "license": "ISC",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.59"
+  },
+  "dependencies": {
+    "typescript": "4.9.5"
+  }
+}

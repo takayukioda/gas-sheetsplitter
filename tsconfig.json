@@ -1,0 +1,7 @@
+{
+	"compilerOptions": {
+		"lib": ["esnext"],
+		"strict": true,
+		"forceConsistentCasingInFileNames": true
+	}
+}

@@ -1,0 +1,4 @@
+node_modules/
+
+# script id が含まれるので管理対象から外す
+.clasp.json
